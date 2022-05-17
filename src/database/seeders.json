@@ -1,0 +1,13 @@
+{
+    "foods": [
+      {
+        "name": "Salada",
+        "price": 12.5
+      },
+      {
+        "name": "Suco de Laranja",
+        "price": 7
+      }
+    ]
+
+}
